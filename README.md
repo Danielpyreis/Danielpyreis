@@ -30,11 +30,11 @@ object **Daniel** {
 ## Status
 
 <a href="https://github.com/Gurupreet">
-  <img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpyreis&theme=tokyonight&hide_langs_below=1" />
+  <img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpyreis&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="auto" src="https://github-readme-stats.vercel.app/api?username=danielpyreis&show_icons=true&theme=tokyonight&line_height=27" alt="**Daniel** github stats"/>
+ <img align="auto" src="https://github-readme-stats.vercel.app/api?username=danielpyreis&show_icons=true&theme=dracula&line_height=27" alt="**Daniel** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
