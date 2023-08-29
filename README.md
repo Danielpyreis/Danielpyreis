@@ -1,4 +1,4 @@
-# Oie devs 👋
+# Oi devs 👋
 
 Aprendendo novas skills e desenvolvendo projetos.
 
