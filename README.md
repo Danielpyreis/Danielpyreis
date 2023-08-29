@@ -7,7 +7,8 @@ Aprendendo novas skills e desenvolvendo projetos.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **Daniel** {
+import Palmas_TO
+object Daniel {
  val name = "Daniel Reis Arruda Sales"
  val acknowledgements = "Ciência da Computação"
 
@@ -35,7 +36,7 @@ object **Daniel** {
 
 <a href="https://github.com/Gurupreet">
  <img align="auto" src="https://github-readme-stats.vercel.app/api?username=danielpyreis&show_icons=true&theme=dracula&line_height=27" alt="**Daniel** github stats"/>
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 </a>
 
 [website]: https://codedev.ga/
