@@ -35,7 +35,7 @@ object **Daniel** {
 
 <a href="https://github.com/Gurupreet">
  <img align="auto" src="https://github-readme-stats.vercel.app/api?username=danielpyreis&show_icons=true&theme=dracula&line_height=27" alt="**Daniel** github stats"/>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 </a>
 
 [website]: https://codedev.ga/
