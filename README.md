@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=header&text=Daniel%20Reis&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Dese[...]
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=header&text=Daniel%20Reis&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Desenvolvedor%20Full%20Stack%20%7C%20Analista%20de%20Dados&descAlignY=85&descSize=16&descColor=FFD0A0"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Oi+devs!+%F0%9F%91%8B;Seja+bem-vindo+ao+meu+perfil;Python+%[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Oi+devs!+%F0%9F%91%8B;Seja+bem-vindo+ao+meu+perfil;Python+%7C+Django+%7C+React+%7C+Flutter;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,16 +42,12 @@ class Daniel:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielpyreis&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielpyreis&theme=github_dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danielpyreis&show_icons=true&theme=github_dark&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&bg_color=0d1117&border_color=FF6B00" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpyreis&layout=compact&theme=github_dark&title_color=FF6B00&text_color=ffffff&bg_color=0d1117&border_color=FF6B00" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielpyreis&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielpyreis&bg_color=0d1117&color=FF6B00&line=FF6B00&point=ffffff&area=true&hide_border=false&border_color=FF6B[...]
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielpyreis&bg_color=0d1117&color=FF6B00&line=FF6B00&point=ffffff&area=true&hide_border=false&border_color=FF6B00&area_color=220d00"/>
 </div>
 
 ---
