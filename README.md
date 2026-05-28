@@ -42,13 +42,16 @@ class Daniel:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danielpyreis&show_icons=true&theme=github_dark&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&bg_color=0d1117&border_color=FF6B00" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpyreis&layout=compact&theme=github_dark&title_color=FF6B00&text_color=ffffff&bg_color=0d1117&border_color=FF6B00" />
+  <img src="https://img.shields.io/github/followers/danielpyreis?style=for-the-badge&label=Seguidores&color=FF6B00&labelColor=0d1117&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/danielpyreis?style=for-the-badge&label=Stars&color=FF6B00&labelColor=0d1117&logo=github&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=danielpyreis&style=for-the-badge&color=FF6B00&label=Visitas&labelColor=0d1117"/>
 </div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielpyreis&bg_color=0d1117&color=FF6B00&line=FF6B00&point=ffffff&area=true&hide_border=false&border_color=FF6B00&area_color=220d00"/>
 </div>
+
+
 
 ---
 
